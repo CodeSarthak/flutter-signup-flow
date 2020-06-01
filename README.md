@@ -1,4 +1,4 @@
-# signup
+# Sarthak's Sign In and Sign Up flow
 
 A sign in and sign up flow, built solely in flutter.
 
