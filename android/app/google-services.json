@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943634479013",
+    "firebase_url": "https://pleasework-e0622.firebaseio.com",
+    "project_id": "pleasework-e0622",
+    "storage_bucket": "pleasework-e0622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943634479013:android:b67ce03391b078ca6d9a4c",
+        "android_client_info": {
+          "package_name": "com.sarthak.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943634479013-g9s85qgnusc95s7mktsr1l6fcas98q16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYm8iGWNMZ5buYT_1P2U5FhAVLe5_QVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943634479013-g9s85qgnusc95s7mktsr1l6fcas98q16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
